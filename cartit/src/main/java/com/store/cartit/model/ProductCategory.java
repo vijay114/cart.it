@@ -23,7 +23,8 @@ public class ProductCategory implements Serializable {
 	private Date lastUpdated;	
 	
 	public ProductCategory() {
-		super();
+
+        super();
 	}
 
 	public ProductCategory(String name, Boolean isActive, Date dateCreated,
