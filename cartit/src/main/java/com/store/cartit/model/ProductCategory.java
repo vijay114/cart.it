@@ -23,7 +23,6 @@ public class ProductCategory implements Serializable {
 	private Date lastUpdated;	
 	
 	public ProductCategory() {
-
         super();
 	}
 
